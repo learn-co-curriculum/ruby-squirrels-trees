@@ -15,7 +15,7 @@
   - has many trees
 
 - Tree
-  - has a `tree-type`
+  - has a `tree_type`
   - has a `height`
   - has many squirrels 
 
