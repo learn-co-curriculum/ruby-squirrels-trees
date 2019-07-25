@@ -16,7 +16,7 @@
 
 - Tree
   - has a `tree_type`
-  - has a `height`
+  - has a `height_in_ft`
   - has many squirrels 
 
 - `rake db:seed` should successfully seed your database 
