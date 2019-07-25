@@ -1,13 +1,13 @@
-#Practice:
+##Practice:
 - Domain Modeling 
 - Databasing 
 - ActiveRecord Migrations
 - Associations
 
-#Goal: 
+##Goal: 
 - Build out a database with proper models and relationships 
 
-#Deliverables:
+##Deliverables:
 - Build out a Squirrels-Trees Domain
 
 - Squirrel
