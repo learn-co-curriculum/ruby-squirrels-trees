@@ -7,3 +7,9 @@ desc "Start our app console"
   task :console do
     Pry.start
   end
+
+
+#   # DO I MAKE THIS? VVV
+# task :seed do
+
+# end
