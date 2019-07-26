@@ -6,6 +6,8 @@ ActiveRecord::Base.establish_connection(
   database: "db/development.sqlite"
 )
 
+DB = {:conn => SQLite3::Database.new("db/development.sqlite")}
+
 ActiveRecord::Base.logger = Logger.new(STDOUT)
 
 require_all 'app'
