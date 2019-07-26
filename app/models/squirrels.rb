@@ -3,7 +3,7 @@ class Squirrel < ActiveRecord::Base
     has_many :trees, through: :squirreltree
 end
 
-
+#hello! man
     # attr_accessor :name, :tree, :id
 
     # @@all = []

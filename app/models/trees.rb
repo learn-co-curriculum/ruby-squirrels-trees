@@ -3,6 +3,7 @@ class Tree < ActiveRecord::Base
     has_many :squirrels, through: :squirreltree
 end
 
+#hey friend
     # attr_accessor :tree_type, :height_in_ft, :squirrels, :id
 
     # @@all = []

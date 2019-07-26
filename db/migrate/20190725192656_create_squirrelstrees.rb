@@ -6,3 +6,5 @@ class CreateSquirrelstrees < ActiveRecord::Migration[5.2]
         end
     end
 end
+
+#rock and roll forever
